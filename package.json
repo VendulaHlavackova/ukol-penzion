@@ -12,5 +12,14 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VendulaHlavackova/ukol-penzion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VendulaHlavackova/ukol-penzion/issues"
+  },
+  "homepage": "https://github.com/VendulaHlavackova/ukol-penzion#readme"
 }
